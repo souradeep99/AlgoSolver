@@ -3,12 +3,9 @@ import os
 from discord.ext import commands, tasks
 from itertools import cycle
 
-#TOKEN = 'NzI5MDE0MTY5Nzg0ODExNTkw.XwCyww.0-b6ZTqEQLOiwHna1BushZg8rQs'
 
-#TOKEN = '1dUa_T_yJ25aCMCAPERuWlSm18pSanyE'
-#NzI5MDE0MTY5Nzg0ODExNTkw.XwCxWg.lCLmKTJWrX1UektoZqoIHELJtgg
 
-TOKEN = 'NzI5MDE0MTY5Nzg0ODExNTkw.XwCxWg.BshO5ofJvwVTz6Q9bp0OR0kWSJE'
+TOKEN = 'add your token here'
 
 client = commands.Bot(command_prefix = '.')
 
